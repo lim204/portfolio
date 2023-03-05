@@ -11,6 +11,8 @@ In the application, one of the images is larger in size than the others
 WHEN resizing the page, we have  a responsive layout that adapts to my viewport
 
 
-## Screenshot
+## Screenshot:
 
-## PLease click on the link to Portfolio
+
+## Please click here: [deployed link](https://lim204.github.io/portfolio/)
+ 
