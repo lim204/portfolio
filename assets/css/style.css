@@ -70,10 +70,11 @@ section div {
 #projects {
     display: flex;
     flex-wrap: wrap;
+    
 }
 #projects a {
     flex-basis: 50%;
-    height: 150px;
+    height: 110px;
 }
 #projects a:first-child{
     flex-basis: 100%;
@@ -94,7 +95,7 @@ h3{
 }
 #wall{
     background-image: url("../images/wall.png");
-
+    
 }
 #calculator{
     background-image: url("../images/calculator.png");
@@ -105,22 +106,18 @@ h3{
 #runbuddy{
     background-image: url("../images/runbuddy.png");
 }
-
 .contactme ul{
     list-style-type: none;
     padding-top: 10px;
     margin-right: 30px;
     float: center;
-    font-family: ''Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
-      
+    font-family: ''Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';     
 }
-
 section ul li {
     display: inline;
     margin-right: 30px;
     text-align: left;
     font-size: 18px;
     text-decoration: underline black 2px; 
-    text-underline-position: under;
-    
+    text-underline-position: under; 
  }
