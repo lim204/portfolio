@@ -3,9 +3,6 @@ body {
     background-color:#cdd5e1
 
 }
-header:hover{
-    
-}
 header {
     display:block;
     margin: 20px;
@@ -18,34 +15,36 @@ header{
 
 header h1{
     display: inline-block;
-    background-color: azure
     font-size: 50px;
+    background-color: azure
 }
-
-header nav {
-    padding-top: 10px;
-    margin-right: 30px;
-    float: right;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
-    font-size: 20px; color: 
-    
+header a{
+    color: azure;
+    text-underline-position: under;
 }
 .coding {
     background:gray;
 }
+.coding h2{
+    background-color: azure;
+    padding: 10px;
+    display:inline-block;
+}
+header nav {
+    font-size: 20px; 
+    padding-top: 10px;
+    margin-right: 30px;
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+}
 header nav ul {
     display: flex;
-    flex-wrap: wrap
-    text-underline: 50px;
-    list-style-type: none;
-   
-    
+    flex-wrap: wrap 
 }
 header nav ul li {
     display: inline-block;
     margin-left: 100px;
     text-align: left;
-    
 }
 
 section {
@@ -59,6 +58,7 @@ section header {
     padding:20px
     
 }
+
 h2{
     text-align: right;
 }
@@ -121,5 +121,6 @@ section ul li {
     text-align: left;
     font-size: 18px;
     text-decoration: underline black 2px; 
+    text-underline-position: under;
     
  }
