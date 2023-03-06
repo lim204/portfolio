@@ -16,7 +16,7 @@ The purpose is to build an effective porfolio that highlight the skills gained.
 
 
 ## Screenshot:
-![alt screenshot1](../assets/images/screenthot1)
+
 
 
 
