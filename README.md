@@ -16,6 +16,7 @@ The purpose is to build an effective porfolio that highlight the skills gained.
 
 
 ## Screenshot:
+![screenshot1](https://user-images.githubusercontent.com/125234173/223018501-33e21c35-c94d-4531-8559-d6827aae7bb4.png)
 
 
 
