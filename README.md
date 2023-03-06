@@ -16,8 +16,8 @@ The purpose is to build an effective porfolio that highlight the skills gained.
 
 
 ## Screenshot:
-![alt screenshot1](../assets/images/screenthot1)
-
+![Alt screenshot1](assets/images/screenshot1.png)
+![Alt screenshot2](assets/images/screenshot2.png)
 
 
 ## Please click here: [deployed link](https://lim204.github.io/portfolio/)
