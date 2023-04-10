@@ -108,9 +108,11 @@ h3 {
 }
 #globle {
     background-image: url("../images/globe.jpeg");
+    height: fit-content;
 }
 #weather {
     background-image: url("../images/weather.jpeg");
+    height: fit-content;
 }
 #pastelpuzzels {
     background-image: url("../images/pastelpuzzels.png");
