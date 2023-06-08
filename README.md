@@ -12,7 +12,7 @@ The purpose is to build an effective porfolio that highlight the skills gained.
 
  4.In the application, one of the images is larger in size than the others.
 
- 5.WHEN resizing the page, we have a responsive layout that adapts to my viewport.
+ 5.When resizing the page, we have a responsive layout that adapts to my viewport.
 
 
 ## Screenshot: 
